@@ -1,0 +1,38 @@
+body{
+    max-width: 670px;
+    margin:10px auto;
+}
+article{
+    font-family: "Times New Roman", serif;
+}
+h1{
+    text-align: center;
+    font-size: 27px;
+}
+.creators{
+    text-align: center;
+    font-size: 19px;
+}
+.corporation{
+    text-align: center;
+    font-size: 16px;
+}
+h2,h3,h4{
+    font-size: 24px;
+}
+.text-center{
+    text-align: center;
+}
+.left-first{
+    float: left;
+    max-width: 280px;
+    margin: 0 10px 0 0;
+}
+.text-right{
+    text-align: right;
+}
+.center-second{
+    max-width: 330px;
+    margin: auto;
+    display: block;
+}
